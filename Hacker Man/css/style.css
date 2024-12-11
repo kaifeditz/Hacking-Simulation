@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    color: green;
+    font-family: monospace;
+  }
+  
+  #terminal {
+    border: 1px solid green;
+    padding: 20px;
+    margin: 20px;
+  }
